@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 はじめまして、ゴックです
 
-<!--
-**W25016/w25016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 自己紹介
+・沖縄ビジネス外語学院でWebプログラミングを勉強しています。  
+・将来はWebエンジニアを目指しています。  
 
-Here are some ideas to get you started:
+## 🔭 現在取り組んでいること
+・タスク管理Webアプリの開発  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 現在勉強中
+・日本語の勉強  
+・Java / Git / GitHub  
+
+## 💡 スキル
+・Java（基礎）  
+・MySQL  
+・Excel（関数・データ管理）  
+
+
+## 📁 プロジェクト
+
+① ケーキショップWebサイト（プロトタイプ）
+
+・内容：
+ケーキショップのWebサイトのプロトタイプを開発しました。  
+商品紹介ページのUIデザインを実装しています。  
+
+・技術：
+HTML / CSS / JavaScript  
+
+・役割：
+フロントエンド開発  
+
+・状態：
+デモ段階（改善中） 
+
+## 🎯 目標
+将来はセキュリティに配慮した安全なWebアプリケーションを開発できるエンジニアを目指しています。  
+
+## 📫 連絡先
+・メール：ngocan4822@gmail.com  
+・GitHub：https://github.com/w25016  
+
+## ⚡ 趣味・特技
+・動物や植物の生態について調べること  
+・新しいことを学ぶこと  
+・物の整理やデザインを考えること  
